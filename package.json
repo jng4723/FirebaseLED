@@ -1,0 +1,15 @@
+{
+  "name": "fireled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Ng",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.2.1",
+    "onoff": "^6.0.1"
+  }
+}
